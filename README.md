@@ -11,3 +11,4 @@ python3 asciiapp.py
 
 _________________________________________
 That should get you up and running. 
+![alt text](image_filename_with_extension)
