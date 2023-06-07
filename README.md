@@ -1,5 +1,6 @@
 This is asciiapp, my first python app.
-____________________________________________
+![Screenshot:](2023-06-07_10-25.png)
+___________________________________________
 
 To install it, just clone this repo and run it as a python script (With python3 installed)
 
@@ -11,4 +12,4 @@ python3 asciiapp.py
 
 _________________________________________
 That should get you up and running. 
-![Screenshot:](2023-06-07_10-25.png)
+
