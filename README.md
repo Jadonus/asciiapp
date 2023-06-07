@@ -11,4 +11,4 @@ python3 asciiapp.py
 
 _________________________________________
 That should get you up and running. 
-![alt text](image_filename_with_extension)
+![Screenshot:](2023-06-07_10-25.png)
