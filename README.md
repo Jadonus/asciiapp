@@ -4,7 +4,7 @@ ___________________________________________
 
 To install it, just clone this repo and run it as a python script (With python3 installed)
 ```shell
-git clone https://www,github.com/Jadonus/asciiapp
+git clone https://www.github.com/Jadonus/asciiapp.git
 
 cd asciiapp
 
