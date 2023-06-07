@@ -288,7 +288,7 @@ def help():
                 |             ;-)             |
                 |                             |
                 |                             |
-                |                             |
+                |       ascii is not mine     |
                 |                             |
                 |         Version 1.0         |
                 |                             |
