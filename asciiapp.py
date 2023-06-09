@@ -222,10 +222,59 @@ gigachad = '''
 ⠀⠀⢀⣀⣀⡀⣼⣤⡟⣬⣿⣷⣤⣀⣄⣀⡀⠀⠀⠀⠀⠀⠀⠈⣿⣿⡄⣉⡀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⣿⣿⣄⠀⣀⣀⡀⠀
 
 ⠀⠀⠀'''
+archmacs = '''
+
+
+                               ╢▒▒▓_
+                              ╟▒▒▒▒▓
+                             ║▒▒▒▒▒▒▓
+                            ║▒▒▒▒▒▒▒▒▓
+                           ╙▒▒▒▒▒▒▒▒▒▓_
+                          ║▓Φ╖╙▒▒▒▒▒▒▒▒▓_
+                        ╢▒▒▒▒▒▓▒▒▒▒▒▒▒▒▓_
+                       ╢▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓_
+                      ╣▒▓▒▒▒▒▒▒▒≡≡  ▒▒▒▓▒▒m
+                    .▓▒▓▒▒▒▒  ╓æΦΦΦ╣▒▒▒▒▓▒▒▄
+                   ╓▓▒▒▒▒▒▒▒▒Φ╥,╙▀▒▒▒▒▒▒▒▒▒▒▌
+                  #▒▒▒▒▒▒▒▀`  ╓æΦ╣▓▒▒▒▒▒▒▓▒▒▒▌
+                 ╢▒▒▒▒▒▓▒▒╥  ╙▀▀▒▒▒▒▒▒▒▒▓▒▒▒▒▒▓_
+                ╣▒▒▒▒▒▒▒▓▒▒▒▓╢ΦMê"_╓æ▓▒▓▒▒▒▒▒ª▀▒_
+              .▓▒▒▒▒▒▒▒▒▒▒▓▓▒▓▓▒▒▒▒▒▓▓▒▒▒▒▒▒▒▒▓▄_
+             ╓▓▒▒▒▒▒▒▒▒▀▀ºÖ  └º╙Öº└  ºª▀▀▒▒▒▒▒▒▒▒▓╖
+            #▒▒▒▒▒▀∩`                       º▀▒▒▒▒▒▌
+
+'''
+
+darth = '''
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣶⣾⣿⡉⢤⣍⡓⢶⣶⣦⣤⣉⠒⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣷⡀⠙⣿⣷⣌⠻⣿⣿⣿⣶⣌⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠈⢿⣿⡆⠹⣿⣿⣿⣿⣷⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠹⣿⡄⢻⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⣿⣿⣷⣽⣷⢸⣿⡿⣿⡿⠿⠿⣆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠐⠾⢭⣭⡼⠟⠃⣤⡆⠘⢟⢺⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢛⣥⣶⠾⠿⠛⠳⠶⢬⡁⠀⠀⠘⣃⠤⠤⠤⢍⠻⡄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡿⣫⣾⡿⢋⣥⣶⣿⠿⢿⣿⣿⣿⠩⠭⢽⣷⡾⢿⣿⣦⢱⡹⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⡟⠈⠛⠏⠰⢿⣿⣿⣧⣤⣼⣿⣿⣿⡏⠩⠽⣿⣀⣼⣿⣿⢻⣷⢡⠀⠀⠀
+⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⢁⣿⣷⣦⡀⠀⠉⠙⠛⠛⠛⠋⠁⠙⢻⡆⠀⢌⣉⠉⠉⠀⠸⣿⣇⠆⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⠷⣄⢠⣶⣾⣿⣿⣿⣿⣿⠁⠀⠀⢿⣿⣿⣿⣷⠈⣿⠸⡀⠀
+⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⠀⣌⡛⠿⣿⣿⠀⠈⢧⢿⣿⡿⠟⠋⠉⣠⣤⣤⣤⣄⠙⢿⣿⠏⣰⣿⡇⢇⠀
+⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣶⣤⣙⠣⢀⠈⠘⠏⠀⠀⢀⣴⢹⡏⢻⡏⣿⣷⣄⠉⢸⣿⣿⣷⠸⡄
+⠀⠀⣸⣿⣿⣿⣿⣿⣿⣿⠁⣾⣟⣛⠛⠛⠻⠿⠶⠬⠔⠀⣠⡶⠋⠿⠈⠷⠸⠇⠻⠏⠻⠆⣀⢿⣿⣿⡄⢇
+⠀⢰⣿⣿⣿⣿⠿⠿⠛⠋⣰⣿⣿⣿⣿⠿⠿⠿⠒⠒⠂⠀⢨⡤⢶⣶⣶⣶⣶⣶⣶⣶⣶⠆⠃⣀⣿⣿⡇⣸
+⢀⣿⣿⠿⠋⣡⣤⣶⣾⣿⣿⣿⡟⠁⠀⣠⣤⣴⣶⣶⣾⣿⣿⣷⡈⢿⣿⣿⣿⣿⠿⠛⣡⣴⣿⣿⣿⣿⠟⠁
+⣼⠋⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣎⠻⠟⠋⣠⣴⣿⣿⣿⣿⠿⠋⠁⠀⠀
+⢿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣴⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣠⣾⣿⠿⠿⠟⠋⠁⠀⠀⠀⠀⠀
+⠀⠉⠛⠛⠿⠿⠿⢿⣿⣿⣿⣵⣾⣿⣧⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+'''
+
+
+
 
 
 def rando():
-    list = [pacman,Arch,masterpeice, Doge, Shrek,tux, nyancat, gigachad]
+    list = [pacman,Arch,masterpeice, Doge, Shrek,tux, nyancat, gigachad, archmacs,darth]
     print(random.choice(list))
 
 
@@ -244,7 +293,7 @@ def logic():
 ________________________________________________________________________
    __________________________________________________________________
     ''')
-    print ('Options:arch,pacman, all, tux ,skrek,masterpeice, gigachad, nyancat or doge')
+    print ('Options:arch,pacman, all, tux ,skrek,masterpeice, gigachad, nyancat or doge, archmacs,darth')
 
     z = input('What should display:')
     if z in ['shrek' , 'Shrek']:
@@ -258,13 +307,18 @@ ________________________________________________________________________
     elif z in ['Masterpeice', 'masterpeice']:
        print(masterpeice)
     elif z in ['All', 'all']:
-       print(pacman, Arch,Shrek,Doge, tux, masterpeice)
+       print(pacman, Arch,Shrek,Doge, tux, masterpeice, archmacs, darth, nyancat)
     elif z in ['Tux', 'tux']:
        print(tux)
     elif z in ['nyancat', 'Nyancat']:
        print(nyancat)
     elif z in ['gigachad', 'Gigachad']:
         print(gigachad)
+    elif z in ['archmacs', 'archmacs']:
+        print (archmacs)
+    elif z in ['darth']:
+        print(darth)
+
     else:
         print('''
               Welp.
@@ -288,7 +342,7 @@ def help():
                 |             ;-)             |
                 |                             |
                 |                             |
-                |       ascii is not mine     |
+                |                             |
                 |                             |
                 |         Version 1.0         |
                 |                             |
@@ -306,7 +360,7 @@ def arg():
     try:
         arg = sys.argv[1]
         if arg == "--all":
-            print (pacman, Arch, Shrek, Doge, masterpeice, nyancat)
+            print (pacman, Arch, Shrek, Doge, masterpeice, nyancat, archmacs,darth)
             exit()
         elif arg == "--run":
            logic()
@@ -318,5 +372,3 @@ def arg():
         logic()
 
 arg()
-
-
